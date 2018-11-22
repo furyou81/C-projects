@@ -1,0 +1,8 @@
+Credentials cache: API:3F8D80D9-3D1F-4238-A95C-7558C3D375E4
+        Principal: lfujimot@42.FR
+
+  Issued                Expires               Principal
+Jul 31 12:05:19 2017  Aug  7 12:05:19 2017  krbtgt/42.FR@42.FR
+Jul 31 12:05:20 2017  Aug  7 12:05:19 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul 31 12:05:21 2017  Aug  7 12:05:19 2017  HTTP/student-storage-1.42.fr@42.FR
+Jul 31 12:18:28 2017  Aug  7 12:05:19 2017  host/vgs-fn1.42.fr@42.FR
